@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/EoH Intro Main 2_V2024.gif
+coverY: 0
+---
+
 # Sơ Lược
 
 ### Sơ lược về E-Ra - IoT Platform <a href="#so-luoc-ve-e-ra-iot-platform" id="so-luoc-ve-e-ra-iot-platform"></a>
