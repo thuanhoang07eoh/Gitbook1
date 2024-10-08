@@ -6,12 +6,27 @@ E-Ra IoT Platform là nền tảng IoT mở của người Việt, được phá
 
 E-Ra được ra đời là quá trình tích lũy kinh nghiệm hơn 5 năm triển khai IoT trong công nghiệp với hơn 72 trạm, 142 sensors, 345 thông số được giám sát và điều khiển 24/7. E-Ra IoT Platform là nền tảng IoT (Non-Code) giúp xóa bỏ những rào cản khó khăn khi tiếp cận và ứng dụng IoT vào thực tiễn (nông nghiệp, công nghiệp, nhà thông minh,...v.v).
 
-### Phần cứng hỗ trợ <a href="#phan-cung-ho-tro" id="phan-cung-ho-tro"></a>
+<details>
+
+<summary><a href="../huong-dan/chuan-bi/phan-cung.md">Phần cứng hỗ trợ</a></summary>
+
+
 
 * Module ESP32
+
+<!---->
+
 * Module Esp8266
+
+<!---->
+
 * Module STM32 (F4 series)
+
+<!---->
+
 * Module Raspberry Pi 1,2,3,4, hoặc zero series
+
+</details>
 
 ### Giới thiệu về EoH <a href="#gioi-thieu-ve-eoh" id="gioi-thieu-ve-eoh"></a>
 
