@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Giới thiệu](README.md)
-  * [Sơ Lược](readme/so-luoc.md)
+* [I. Giới thiệu](README.md)
   * [Bài Viết Khoa Học](readme/bai-viet-khoa-hoc.md)
   * [E-Ra Talk](readme/e-ra-talk.md)
   * [Cộng đồng E-Ra ioT](readme/cong-dong-e-ra-iot.md)
